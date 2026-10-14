@@ -1,0 +1,22 @@
+{
+  "original_unchanged": true,
+  "source_file_count": 25,
+  "backups_preserved": 6,
+  "database_rows": {
+    "assets": 43,
+    "history": 44,
+    "settings": 2,
+    "migrations": 2
+  },
+  "python": "3.13.16",
+  "uv": "0.13.0",
+  "version": "4.3.0",
+  "automated_tests_passed": 41,
+  "gui_tests": "10 form tests skipped in restricted execution sandbox; normal Windows desktop startup and live maturity form checked with computer-use skill",
+  "build_artifacts": [
+    "asset_statistics-4.3.0-py3-none-any.whl",
+    "asset_statistics-4.3.0.tar.gz"
+  ],
+  "distributions_exclude_private_data": true,
+  "actual_desktop_verified": true
+}

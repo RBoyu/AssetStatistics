@@ -1,0 +1,24 @@
+# uv environment and Python caches
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+tests/.tmp/
+
+# Private ledger, snapshots and local logs
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+backups/
+logs/
+docs/MIGRATION_MANIFEST.json
+
+# Editor settings
+.idea/
+.vscode/
+
+# Commit pyproject.toml, uv.lock and .python-version.

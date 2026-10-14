@@ -1,0 +1,9 @@
+# Keep source, documentation and uv metadata consistent across platforms.
+* text=auto eol=lf
+
+# Native Windows launch scripts use CRLF in the working tree.
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Icons must never undergo text conversion.
+*.ico binary
